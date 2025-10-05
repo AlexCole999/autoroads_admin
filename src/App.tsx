@@ -86,8 +86,8 @@ const data = {
     { id: 3, name: "ИП Иванов", balance: -30 },
   ],
   services: [
-    { id: 1, name: "Замена масла", price: 30 },
-    { id: 2, name: "Диагностика двигателя", price: 40 },
+    { id: 1, name: "Замена масл", price: 30 },
+    { id: 2, name: "Диагностика двигателя", price: 60 },
     { id: 3, name: "Полировка кузова", price: 80 },
   ],
   docs: [
